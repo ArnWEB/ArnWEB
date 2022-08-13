@@ -1,6 +1,6 @@
 <div>
 <h1 align="center">Hi 👋, I'm Arnab <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A Passionate Software Developer from India</h3>
 
 - 🔭 I’m currently working on my **GoLang**
 
@@ -18,7 +18,7 @@
 
 
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <a href="#">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
@@ -35,11 +35,11 @@
     <h2 align="center"> 📊 Github stats </h2>
       <br/>
         <p align="center">
-          <a href="https://github.com/1999AZZAR/">
+          <a href="#">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnWEB&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="1999AZZAR :: Top Langs" /></a>
         </p>
         <p align="center">
-          <a href="https://github.com/1999AZZAR/">
+          <a href="#">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ArnWEB&show_icons=true&theme=gruvbox&hide_border=true" />
           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ArnWEB&theme=gruvbox&hide_border=true" />
           </a>
