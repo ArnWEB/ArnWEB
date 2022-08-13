@@ -36,10 +36,6 @@
       <br/>
         <p align="center">
           <a href="#">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnWEB&langs_count=10&theme=gruvbox&layout=compact&hide_border=true" alt="1999AZZAR :: Top Langs" /></a>
-        </p>
-        <p align="center">
-          <a href="#">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ArnWEB&show_icons=true&theme=gruvbox&hide_border=true" />
           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ArnWEB&theme=gruvbox&hide_border=true" />
           </a>
