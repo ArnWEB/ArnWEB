@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **DevOps projects and Backend Projects**
 
-- 📫 How to reach me: **arnabkundu854hotmail.com**
+- 📫 How to reach me: **arnabkundu854@hotmail.com**
 
 - ⚡ What I like to do: **I like so much hearing podcast,exploring new tech...and coding of course**
 
