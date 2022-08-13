@@ -36,7 +36,7 @@
       <br/>
         <p align="center">
           <a href="#">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnWEB&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="1999AZZAR :: Top Langs" /></a>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnWEB&langs_count=10&theme=gruvbox&layout=compact&hide_border=true" alt="1999AZZAR :: Top Langs" /></a>
         </p>
         <p align="center">
           <a href="#">
